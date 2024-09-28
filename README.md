@@ -2,6 +2,10 @@
 
 This repository contains the final project for the **Microprocessor and Embedded Systems** course at **American International University - Bangladesh (AIUB)**. The project simulates a water quality monitoring system using Arduino and several sensors to measure important water parameters such as pH, temperature, turbidity, and dissolved oxygen. The project is implemented in a software simulation environment.
 
+### Course Information
+For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
+*Note: Search for "Microprocessor and Embedded Systems" for specific course information.*
+
 ## Water Monitoring System Using Arduino - Final Project (Simulation)
 
 ### Project Overview
