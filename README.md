@@ -1,4 +1,4 @@
-# Microprocessor and Embedded Systems Repository
+# Microprocessor and Embedded Systems (MES) Repository
 
 This repository contains the final project for the **Microprocessor and Embedded Systems** course at **American International University - Bangladesh (AIUB)**. The project simulates a water quality monitoring system using Arduino and several sensors to measure important water parameters such as pH, temperature, turbidity, and dissolved oxygen. The project is implemented in a software simulation environment.
 
